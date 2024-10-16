@@ -1,4 +1,4 @@
-# Plant-website
+# Personal-websites
 <html>
   <head>
     <title>All About Plants</title>
